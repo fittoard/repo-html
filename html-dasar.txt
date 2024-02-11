@@ -2,3 +2,8 @@ HTML DASAR
 -paham apa itu html
 -mengerti sintax html
 -mengerti class and div
+
+css dasar
+-mengerti kegunaan css
+-mengerti koneksi css ke html
+-bisa styling dasar css
